@@ -11,8 +11,7 @@ body {
     overflow: auto;
   }
 
-
-    ul {
+ ul {
         list-style-position: inside;
         list-style-type: none;
         margin: 0 auto;
